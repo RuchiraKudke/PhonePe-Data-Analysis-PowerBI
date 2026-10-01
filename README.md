@@ -36,7 +36,7 @@ The data consists of separate transaction and user tables.
 | Table | Description | Records |
 |---|---|---:|
 | `All_Transactions` | Transaction-level data | 300,000 |
-| `All_Users` | User-level information | Actual count |
+| `All_Users` | User-level information | 1,07,658 |
 
 In addition to the source tables, two tables were created within Power BI:
 
